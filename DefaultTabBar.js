@@ -99,10 +99,10 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingBottom: 10,
+    paddingBottom: 2,
   },
   tabs: {
-    height: 50,
+    height: 30,
     flexDirection: 'row',
     justifyContent: 'space-around',
     borderWidth: 1,
